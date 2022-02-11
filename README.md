@@ -1,13 +1,9 @@
-안녕하세요🙆
+안녕하세요, 저의 이름은
 
 SOL PARK, Back-end Developer💪
 --------------------------------------------
 <br/>
 <br/>
-
-
-
-
 
 
 ✨The skill I experienced<br/>
@@ -34,3 +30,10 @@ SOL PARK, Back-end Developer💪
 <br/><br/>
 ![SOL-hub's github stats](https://github-readme-stats.vercel.app/api?username=SOL-hub&show_icons=true)
 [![SOL-hub's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SOL-hub&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SOL-hub)
+
+<br/><br/>
+💚 About SOL
+<br/>click this👉<img src="https://img.shields.io/badge/Portfolio-F24E1E?style=for-the-badge&logo=SOL&logoColor=white">
+ ![port](https://user-images.githubusercontent.com/63778599/153618270-503be272-7a02-4422-a11c-14e5289d95f5.png)
+
+ 

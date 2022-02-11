@@ -30,3 +30,7 @@ SOL PARK, Back-end Developer💪
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+
+<br/><br/>
+![SOL-hub's github stats](https://github-readme-stats.vercel.app/api?username=SOL-hub&show_icons=true)
+[![SOL-hub's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SOL-hub&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SOL-hub)
